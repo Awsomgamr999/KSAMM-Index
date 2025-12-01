@@ -1,6 +1,6 @@
 [metadata]
 name = "ModMenu"
 author = "MrJeranimo"
-description = "A modding framework for Kitten Space Agency that allows mods to easily add menu entries. This mod will work standalone, but the "Mods" menu will have nothing inside it. This mod is intended as a dependency for other mods."
+description = 'A modding framework for Kitten Space Agency that allows mods to easily add menu entries. This mod will work standalone, but the "Mods" menu will have nothing inside it. This mod is intended as a dependency for other mods.'
 license_name = "MIT"
 update_path = "https://spacedock.info/mod/4054/ModMenu/download/0.1.0"

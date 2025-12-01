@@ -1,6 +1,0 @@
-[metadata]
-name = "Avionics"
-author = "Dejvid"
-description = "Avionics is a mod for Kitten Space Agency that adds a Horizontal Situation Indicator (HSI) that you can use to fly an ILS approach to the position of any airport in the world. This mod does not add airport models or runways to KSA; it only adds the navigation tools to get to where they would be."
-license_name = "MIT"
-update_path = "https://spacedock.info/mod/4057/Avionics/download/v1.1.0"

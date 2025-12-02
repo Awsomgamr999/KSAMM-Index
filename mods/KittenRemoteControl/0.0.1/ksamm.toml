@@ -1,6 +1,0 @@
-[metadata]
-name = "KittenRemoteControl"
-author = "GhentZ"
-description = "Allows external access to the vehicle via a socket connection."
-license_name = "MIT"
-update_path = "https://spacedock.info/mod/4049/KittenRemoteControl/download/0.0.1"

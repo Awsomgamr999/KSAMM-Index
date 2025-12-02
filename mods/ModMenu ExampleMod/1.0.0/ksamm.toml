@@ -1,0 +1,7 @@
+[metadata]
+name = "ModMenu ExampleMod"
+author = "MrJeranimo"
+description = "This is an example mod for the mod ModMenu"
+license_name = "MIT"
+update_path = "https://spacedock.info/mod/4055/ModMenu%20ExampleMod/download/1.0.0"
+id = 23030

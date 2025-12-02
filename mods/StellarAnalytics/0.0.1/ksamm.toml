@@ -1,0 +1,7 @@
+[metadata]
+name = "StellarAnalytics"
+author = "Awsomgamr999"
+description = "StellarAnalytics is a simple analytics mod for Kitten Space Agency that records how long the player has spent in the game across multiple sessions. It displays both the current session time and the total accumulated time directly in-game."
+license_name = "MIT"
+update_path = "https://spacedock.info/mod/4041/StellarAnalytics/download/0.0.1"
+id = 22984
